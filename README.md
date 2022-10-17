@@ -2,7 +2,7 @@ Fabrik for J!4.x
 ================
 
 This is a test version, not a complete working version of fabrik.
-Work is in progress to get it al working.
+Work is in progress to get it all working.
 
 Final version:
 ================
